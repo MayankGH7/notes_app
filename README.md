@@ -40,11 +40,3 @@ Before using iNotes, make sure you have the following prerequisites:
 3. Open `index.php` in a web browser to access the notes management application.
 
 4. Use the application to add, edit, and delete notes. You can also clear all notes using the "Clear All Notes" button.
-
-## License
-
-This code is provided under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for both personal and commercial purposes. However, please give credit to the original author if you use it in your projects.
-
----
-
-Feel free to reach out if you have any questions or need further assistance with iNotes.
